@@ -1,0 +1,7 @@
+{
+  "name": "testone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
